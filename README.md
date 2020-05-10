@@ -1,6 +1,3 @@
-# Employee-Information-Tool
-Adding people into database system
-
 # Employees-Information-Tool
 Adding people on database using the tool + CRUD
 
